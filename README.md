@@ -1,5 +1,5 @@
 # Thailand-City-Geolocation
-รวมตำบลและเขตแขวงรวมถึงจังหวัดทุกจังหวัดในประเทศไทย ในรูปแบบ JSON  และ Excel 
+รวมตำบลและเขตแขวงรวมถึงจังหวัดทุกจังหวัดในประเทศไทย ในรูปแบบ JSON  และ Excel เป็น ละติจูด ลองจิจูด
 Thailand Geolocation latitude, longitude with JSON format or Exel CSV
 
 ที่มา https://data.go.th/DatasetDetail.aspx?id=c6d42e1b-3219-47e1-b6b7-dfe914f27910
