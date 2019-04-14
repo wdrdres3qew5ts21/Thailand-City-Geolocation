@@ -1,6 +1,12 @@
 # Thailand-City-Geolocation
 รวมตำบลและเขตแขวงรวมถึงจังหวัดทุกจังหวัดในประเทศไทย ในรูปแบบ JSON  และ Excel 
 Thailand Geolocation latitude, longitude with JSON format or Exel CSV
+
+ที่มา https://data.go.th/DatasetDetail.aspx?id=c6d42e1b-3219-47e1-b6b7-dfe914f27910
+ข้อมูลพิกัด  LAT/LONG ที่บ่งชี้ชื่อตำบล อำเภอ จังหวัด
+(ในรูปแบบ Microsoft Excel) ซึ่งได้จัดทำจากข้อมูลขอบเขตการปกครองของกรมการปกครอง
+อัพเดทล่าสุด 22 สิงหาคม 2561
+
 # ตัวอย่าง
 
 	{
